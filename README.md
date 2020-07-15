@@ -14,7 +14,7 @@ This is the repo which has a jupyter notebook where you can experiment the segme
 
 
 ## usage
-Run jupyter notebook "tree_segment" by editing the path for the image in input cell.
+Run jupyter notebook "tree_segment" by editing the <path> for the image in input cell.
 
 ## sample output
 
